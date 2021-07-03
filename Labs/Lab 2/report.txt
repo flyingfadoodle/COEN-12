@@ -1,0 +1,32 @@
+Samuel Lim
+Coen 12 Project 2
+April 18 2021
+
+unique (real time in seconds)
+------
+                              unsorted   sorted
+GreenEggsAndHam.txt             0.011     0.009
+Macbeth.txt                     0.133     0.044
+Genesis.txt                     0.139     0.040
+HoundOfTheBaskervilles.txt      0.341     0.084
+TheWarOfTheWorlds.txt           0.381     0.104
+TreasureIsland.txt              0.330     0.094
+TheSecretGarden.txt             0.314     0.086
+TwentyThousandLeagues.txt       0.647     0.151
+TheCountOfMonteCristo.txt       3.058     0.381
+Bible.txt                       3.196     0.371
+
+
+parity (real time in seconds)
+------
+                              unsorted   sorted
+GreenEggsAndHam.txt             0.013     0.013
+Macbeth.txt                     0.327     0.108
+Genesis.txt                     0.378     0.120
+HoundOfTheBaskervilles.txt      1.194     0.291
+TheWarOfTheWorlds.txt           1.457     0.328
+TreasureIsland.txt              1.548     0.331
+TheSecretGarden.txt             1.359     0.334
+TwentyThousandLeagues.txt       3.397     0.581
+TheCountOfMonteCristo.txt       32.884    3.891
+Bible.txt                       33.057    3.723
